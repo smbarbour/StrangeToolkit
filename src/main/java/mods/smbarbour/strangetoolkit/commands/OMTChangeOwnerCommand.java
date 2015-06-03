@@ -24,6 +24,7 @@ public class OMTChangeOwnerCommand extends CommandBase
 	public void processCommand(ICommandSender sender, String[] params) {
 		if (params.length != 5) {
 			sender.addChatMessage(new ChatComponentText(getCommandUsage(sender)));
+			return;
 		}
 		try {
 			int dimension = Integer.parseInt(params[0]);
