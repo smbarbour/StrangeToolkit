@@ -1,0 +1,16 @@
+[
+{
+  "modid": "strangetoolkit",
+  "name": "StrangeToolkit",
+  "description": "Odds and ends for fixing issues on a Minecraft server",
+  "version": "@version@",
+  "mcversion": "@mcversion@",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["smbarbour"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
